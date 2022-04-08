@@ -1,0 +1,21 @@
+# Read about how to use this configuration file
+# https://developers.cloudflare.com/workers/cli-wrangler/configuration
+
+name = "tilda-interkassa"
+type = "javascript"
+account_id = ""
+workers_dev = true
+
+[vars]
+INTERKASSA_CHECKOUT_ID = ""
+INTERKASSA_SECRET_KEY = ""
+
+[[kv_namespaces]]
+binding = "TILDA_INTERKASSA"
+preview_id = ""
+id = ""
+
+[build]
+command = "npm run webpack"
+[build.upload]
+format = "service-worker"
