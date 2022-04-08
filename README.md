@@ -1,2 +1,1 @@
-# `tilda-interkassa-worker 💵💷💴`
-
+# `tilda-interkassa-worker 💵💷💴 — WIP`
