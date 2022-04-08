@@ -1,7 +1,7 @@
 # `tilda-interkassa-worker 💵💷💴 — WIP`
 
 <details>
-  <summary>Принцип работы</summary>
+  <summary>📄 Принцип работы</summary>
 
 - - -
 
@@ -17,7 +17,7 @@ https://docs.interkassa.com/#section/3.-Protocol/3.5.-Generate-the-digital-signa
 </details>
 
 <details>
-  <summary>Код для тильды</summary>
+  <summary>⚙️ Код для тильды</summary>
 
 - - -
 
